@@ -1,0 +1,7 @@
+python search.py --index index.csv --query queries/103100.png --result-path dataset
+python index.py --dataset dataset --index index.csv
+
+
+
+
+python search.py --index index.csv --query C:/xampp/htdocs/motordebusqueda/img/cocora.png --result-path dataset
