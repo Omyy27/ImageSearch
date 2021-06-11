@@ -53,16 +53,3 @@ python search.py --index index.csv --query queries/103100.png --result-path data
 * [OPENCV](https://opencv.org/) - Biblioteca de funciones de programación dirigida principalmente a la visión por computadora en tiempo real
 * [Numpy](https://numpy.org/) - Biblioteca para el lenguaje de programación Python, que agrega soporte para matrices y matrices grandes y multidimensionales
 
-
-## Autores ✒️
-
-* **Omar Movilla** - *Desarrollador Web - CoInvestigador* - [Omyy27](https://github.com/Omyy27)
-* **Silvia Moreno** - *Mentora - Investigadora* - [Ing. Silvia Moreno](http://scholar.google.es/citations?user=rRIROaEAAAAJ&hl=es)
-
-## Publicaciones en Revistas Cientificas 📄
-
-[Articulo](https://www.proquest.com/openview/b78d1fec6a4df372da2f1e87ee3fc98e/1?pq-origsite=gscholar&cbl=1006393)
-
-
----
-⌨️ con ❤️ por [Omyy27](https://github.com/Omyy27) 😊
